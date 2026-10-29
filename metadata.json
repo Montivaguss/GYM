@@ -1,0 +1,6 @@
+{
+  "name": "MoveWave — Social Fitness, Steps & Weekly Challenges",
+  "description": "High-energy social fitness tracker for daily movement, steps, workout logging, weekly challenges, streaks, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
